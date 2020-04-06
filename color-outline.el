@@ -1,4 +1,4 @@
-;; color-outline.el --- Outline w/ color      -*- lexical-binding: t; -*-
+;;; color-outline.el --- Outline w/ color      -*- lexical-binding: t; -*-
 
 ;; Author: Yuan Fu <casouri@gmail.com>
 ;; Keywords: outline
