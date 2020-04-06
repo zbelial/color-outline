@@ -1,6 +1,9 @@
 ;; color-outline.el --- Outline w/ color      -*- lexical-binding: t; -*-
 
 ;; Author: Yuan Fu <casouri@gmail.com>
+;; Keywords: outline
+;; Package-Requires: ((emacs "24.3"))
+
 
 ;; This file is NOT part of GNU Emacs
 
